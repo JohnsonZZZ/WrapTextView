@@ -1,6 +1,7 @@
 # WrapTextView
 自定义View—字体均匀分布控件
 
+[![](https://jitpack.io/v/mhlistener/WrapTextView.svg)](https://jitpack.io/#mhlistener/WrapTextView)
 
 [博客链接](https://www.jianshu.com/p/169fabfe3ed1)
 
