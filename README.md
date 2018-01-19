@@ -1,6 +1,6 @@
 # WrapTextView
 自定义View—字体均匀分布控件
-
+[博客链接](https://www.jianshu.com/p/169fabfe3ed1)
 
 Step 1. build文件 添加JitPack repository
 ```
