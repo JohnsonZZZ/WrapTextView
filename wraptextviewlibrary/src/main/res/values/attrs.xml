@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WrapTextView">
+        <attr name="text" format="string|reference" />
+        <attr name="textExtra" format="string|reference" />
+        <attr name="textSize" format="dimension|reference" />
+        <attr name="textColor" format="color|reference" />
+    </declare-styleable>
+</resources>
