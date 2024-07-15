@@ -1,5 +1,5 @@
 # WrapTextView
-自定义View—实现各种字体（字母、宽窄汉字）均匀分布控件
+自定义View—实现各种字体（字母、数字、各种汉字等等）均匀分布控件
 
 [![](https://jitpack.io/v/mhlistener/WrapTextView.svg)](https://jitpack.io/#mhlistener/WrapTextView)
 
